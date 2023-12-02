@@ -7,3 +7,6 @@
 * git push - сохранение изменений в удаленный репозитарий
 
 [Ссылка на github](https://www.github.com)
+
+- hash
+
