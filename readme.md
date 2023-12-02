@@ -10,4 +10,4 @@
 
 - hash
 - git log
-
+- HEAD
