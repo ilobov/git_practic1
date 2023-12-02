@@ -9,4 +9,5 @@
 [Ссылка на github](https://www.github.com)
 
 - hash
+- git log
 
